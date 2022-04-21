@@ -18,6 +18,8 @@ getting very good data from other geographical areas of interest.* In tandem
 with the spatial distribution of tweets, we used Word Art to analyze the most
 common words that were tweeted within this geographical region.
 
+I decided to compare geotagged tweets within the US between Frriday and Saturday. I thought it would be interesting to see the geographical distribution of tweets as well as the text breakdown of the tweets from the end of the work week to the start of the weekend. I predicted that the density of geotagged tweets on Saturday would be higher than that on Friday simply because many people have Saturday off. However, this was not the case. There was no real difference in density from Friday to Saturday, and only minor changes in the word breakdown of the tweets.
+
 ## Analyzing the maps
 The first day I collected geotagged tweets was on Friday. Most of the tweets collected on Friday were distributed around Seattle, San Francisco, Los Angeles, and then a high density up and down the entire eastern seaboard. Denver and Salt Lake City were the only cluster of geotagged tweets throughout much of the midwest.
 
